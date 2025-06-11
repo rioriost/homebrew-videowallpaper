@@ -1,6 +1,6 @@
 cask "videowallpaper" do
-  version "1.1.3"
-  sha256 "c2721c81c89f64d6a8ac5257001e2f6b11062a0faf22b8b0a6861b7b9a6dec08"
+  version "1.1.4"
+  sha256 "f64a3add0694def3d12420d500735082f71c108b6a9f0f9a2e8817fee9f63d18"
 
   url "https://github.com/rioriost/homebrew-videowallpaper/releases/download/#{version}/VideoWallpaper-#{version}.zip"
   name "VideoWallpaper"
